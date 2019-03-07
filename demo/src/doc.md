@@ -7,7 +7,7 @@ import {SelectModule} from 'ng2-select';
 ```typescript
 // class Select
 @Component({
-  selector: 'ng-select',
+  selector: 'ng2-select',
   properties: [
     'allowClear',
     'placeholder',

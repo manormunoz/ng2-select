@@ -52,7 +52,7 @@
 * **docs:** updated property name for active items ([#318](https://github.com/valor-software/ng2-select/issues/318)) ([d39def2](https://github.com/valor-software/ng2-select/commit/d39def2)), closes [#307](https://github.com/valor-software/ng2-select/issues/307)
 * **filter:** possible dupes in filter ([#212](https://github.com/valor-software/ng2-select/issues/212)) ([7f4e9f6](https://github.com/valor-software/ng2-select/commit/7f4e9f6))
 * **options:** fixed the disabled state ([#225](https://github.com/valor-software/ng2-select/issues/225)) ([388506f](https://github.com/valor-software/ng2-select/commit/388506f))
-* **README:** Update docs with correct selector ng-select ([#148](https://github.com/valor-software/ng2-select/issues/148)) ([8aee01c](https://github.com/valor-software/ng2-select/commit/8aee01c))
+* **README:** Update docs with correct selector ng2-select ([#148](https://github.com/valor-software/ng2-select/issues/148)) ([8aee01c](https://github.com/valor-software/ng2-select/commit/8aee01c))
 * **select:**  issue [#437](https://github.com/valor-software/ng2-select/issues/437) ([#454](https://github.com/valor-software/ng2-select/issues/454)) ([926e14d](https://github.com/valor-software/ng2-select/commit/926e14d))
 * **select:** allow empty items ([2c090f3](https://github.com/valor-software/ng2-select/commit/2c090f3))
 

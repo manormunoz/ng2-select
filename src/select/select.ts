@@ -107,7 +107,7 @@ let styles = `
 `;
 
 @Component({
-  selector: 'ng-select',
+  selector: 'ng2-select',
   styles: [styles],
   providers: [
     {
